@@ -19,4 +19,18 @@
 
 ---
 
-## �
+---
+
+## 🧠 ABOUT ME (OFFSEC MODE)
+```yaml
+Cybersecurity Enthusiast passionate about:
+  - Red Teaming
+  - Penetration Testing
+  - Bug Bounty Hunting
+  - Malware Analysis
+  - Vulnerability Research
+Mindset:
+  - Offensive Security
+  - Hands-on Learning
+  - Learn → Exploit → Repeat
+
